@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'gestion.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'francisco25$python',
+        'NAME': 'francisco25$gestiona',
         'USER': 'francisco25',
         'PASSWORD': 'usuario1234',
         'HOST': 'francisco25.mysql.pythonanywhere-services.com',
